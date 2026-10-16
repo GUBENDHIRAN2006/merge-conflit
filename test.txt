@@ -1,2 +1,1 @@
-merge conflict file
-chennain
+the file wa resolved
