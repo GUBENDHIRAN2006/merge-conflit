@@ -1,1 +1,1 @@
-merge conflict file  editer
+the file wa resolved
